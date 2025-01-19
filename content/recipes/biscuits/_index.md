@@ -29,6 +29,8 @@ Cold butter is key to achieving light, flaky, and buttery biscuits.
 - 85g unsalted butter **as cold as possible**. European butter is _ideal_, but not required.
 - 170mL of cold milk.
 
+---
+
 ## Instructions
 
 1. **Combine wet ingredients**. Combine flour, baking powder, and salt in a large bowl and mix well. Set aside.
@@ -40,6 +42,8 @@ Cold butter is key to achieving light, flaky, and buttery biscuits.
 1. **Repeat until you've used all the dough!** ✨
 1. **Baking time**. Bake on 425F (or 400F in convection oven) for 12 minutes or until tops are beginning to just turn lightly golden brown.
 1. [Optional] Brush with melted salted butter immediately after removing from oven.
+
+---
 
 ### Notes
 

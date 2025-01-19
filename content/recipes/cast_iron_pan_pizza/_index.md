@@ -34,19 +34,14 @@ There are two parts:
 
 ### Ingredients
 
-- **400g bread flour** (about 2 1/2 cups), plus extra for dusting
-
-- **10g kosher salt** (about 2 teaspoons), plus more for sprinkling
-
-- **4g instant yeast** (about 1 teaspoon), such as SAF Instant Yeast
-
-- **275g water** (about 1 cup plus 3 tablespoons)
-
-- **8g extra-virgin olive oil** (about 2 teaspoons), plus more for greasing the pan and drizzling
-
-- **1/2 package mozzarella**, shredded
-
+- 400g bread flour (about 2 1/2 cups), plus extra for dusting
+- 10g kosher salt (about 2 teaspoons), plus more for sprinkling
+- 4g instant yeast (about 1 teaspoon), such as SAF Instant Yeast
+- 275g water (about 1 cup plus 3 tablespoons)
+- 8g extra-virgin olive oil (about 2 teaspoons), plus more for greasing the pan and drizzling
+- 1/2 package mozzarella, shredded
 - [Optional] Sesame seeds for sprinkling
+
 
 ### Instructions
 
@@ -58,6 +53,8 @@ There are two parts:
 6. Preheat your oven to 550°F (290°C). Place a small pot of water inside the oven to create steam.
 7. Bake the pizza on the bottom rack for 12–15 minutes, or until the cheese is browned and the crust is crispy.
 8. Drizzle with olive oil and sprinkle with additional salt if desired. Enjoy!
+
+---
 
 ## Sauce
 
