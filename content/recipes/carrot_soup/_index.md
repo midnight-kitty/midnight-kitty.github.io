@@ -1,6 +1,6 @@
 +++
 title = "Carrot Soup"
-description = "Something"
+description = "Flavorful soup and easy to make. A perfect winter meal! ❄️"
 template = "prose.html"
 insert_anchor_links = "none"
 

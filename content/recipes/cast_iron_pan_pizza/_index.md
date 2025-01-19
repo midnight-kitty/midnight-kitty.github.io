@@ -1,6 +1,6 @@
 +++
 title = "Cast Iron Pan Pizza"
-description = "Something"
+description = "The best pizza you'll ever have! 🍕"
 template = "prose.html"
 insert_anchor_links = "none"
 

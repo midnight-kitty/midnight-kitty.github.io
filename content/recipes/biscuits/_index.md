@@ -1,6 +1,6 @@
 +++
 title = "Biscuits"
-description = "Something"
+description = "Buttery biscuits. Perfect match for afternoon tea or breakfast sandwich."
 template = "prose.html"
 insert_anchor_links = "none"
 
