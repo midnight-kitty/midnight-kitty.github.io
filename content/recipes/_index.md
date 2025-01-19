@@ -28,6 +28,8 @@ comment = false
 
 [Carrot Soup](./carrot_soup/)
 
-# Carrot Soup 
+> **Carrot Soup** - This healthy and veggie soup is packed with nutrients and bold flavors, making it the perfect dish to warm you up on a chilly winter day. With tender carrots, creamy white kidney beans, and a hint of ginger, it’s like a cozy hug in a bowl—ready to brighten your day in under an hour! 🥕
 
-> This healthy and veggie soup is packed with nutrients and bold flavors, making it the perfect dish to warm you up on a chilly winter day. With tender carrots, creamy white kidney beans, and a hint of ginger, it’s like a cozy hug in a bowl—ready to brighten your day in under an hour! 🥕
+[Chili](./chili/)
+
+> **Chili** - A warming chili with a stew-like consistency—perfect for meal prep or cozy winter nights. Bursting with bold flavors, tender beans, and a medley of spices can be served by itself, over rice, with crusty bread, or topped with cheese and sour cream. 🍛
