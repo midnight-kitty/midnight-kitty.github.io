@@ -95,7 +95,8 @@
             <line x1="7" y1="7" x2="7" y2="7"></line>
           </svg>
           {% for tag in section.extra.tags %}
-          <a class="tag" href="/tags/#{{ tag | slugify }}"><span></span>{{ tag }}</a>
+          {% set parent_section = current_path | split(pat="/") | nth(n=1) %}
+          <a class="tag" href="{{ config.base_url }}/{{ parent_section }}/tags#{{ tag | slugify }}"><span></span>{{ tag }}</a>
           {% endfor %}
         </div>
         {% endif %}
