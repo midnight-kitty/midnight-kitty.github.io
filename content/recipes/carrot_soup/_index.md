@@ -19,7 +19,7 @@ tags = ["vegetarian", "easy", "winter meal"]
 > This flavorful carrot soup is easy to make and it is one of my favourite winter meals. Packed with nutrients and warmth, it's a bowl of comfort you can whip up in **under an hour**.  
 
 ## Ingredients  
-- 500 grams of carrots
+- 1 kilogram of carrots
 - 1/2 tablespoon of ground ginger  
 - 1 white onion
 - 2 garlic cloves
@@ -42,7 +42,7 @@ tags = ["vegetarian", "easy", "winter meal"]
 
 ## Instructions  
 
-1. **Prepare Ingredients:** Peel and chop one carrot into thin circular slices. Slice the rest of the carrots into long, thin strips for later (a vegetable peeler will work for this as well).  
+1. **Prepare Ingredients:** Peel and chop two carrots into thin circular slices. Slice the rest of the carrots into long, thin strips for later (a vegetable peeler will work for this as well).
 
 1. **Sauté Aromatics:** Heat 1 tablespoon of olive oil in a large pot over medium heat. Add the diced onion, the full garlic cloves, and ground ginger. Sauté until fragrant, about 2-3 minutes. Add optional spices in this step.
 

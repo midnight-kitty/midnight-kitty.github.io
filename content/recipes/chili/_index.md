@@ -15,6 +15,7 @@ tags = ["vegetarian", "easy", "meal prep"]
 
 > A warming chili with a stew-like consistency—perfect for meal prep or cozy winter nights. This recipe makes 6–8 servings and is highly adaptable based on what you have on hand. The leftovers will freeze and reheat perfectly!
 
+![ChiliPot](chili_pic1.jpeg)
 
 **Ingredients:**
 
