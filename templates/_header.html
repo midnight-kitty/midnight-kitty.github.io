@@ -9,7 +9,10 @@
         <span>By Tag</span>
       {% elif current_path is starting_with("/recipes") %}
         <a href="/recipes">Recipes</a>
-        {% if page %}
+        {% if section.title and section.path != "/recipes" and current_path != "/recipes/" %}
+          <span class="separator">{{ config.extra.nav_separator }}</span>
+          <span>{{ section.title }}</span>
+        {% elif page.title and current_path != "/recipes/" %}
           <span class="separator">{{ config.extra.nav_separator }}</span>
           <span>{{ page.title }}</span>
         {% endif %}
