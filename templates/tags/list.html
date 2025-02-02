@@ -2,7 +2,6 @@
 
 {% block page %}tag-list{% endblock page %}
 {% block lang %}{{ lang }}{% endblock lang %}
-{% block title %}Recipes :: By Tag{% endblock title %}
 
 {% block header_title %}
 {% endblock header_title %}
@@ -11,10 +10,10 @@
 {% include "_header.html" %}
 <div id="wrapper">
   <main>
-    <div class="title">Recipes by Tag</div>
+    <div class="title">{{ section.title }}</div>
     
     {% set recipes = get_section(path="recipes/_index.md") %}
-    <div class="post-tags" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+    <div class="tags">
       {% set all_tags = [] %}
       {% for subsection in recipes.subsections %}
         {% set sub = get_section(path=subsection) %}
@@ -28,12 +27,14 @@
       {% endfor %}
       
       {% for tag in all_tags | sort %}
-        <div class="post-tags" style="flex: 0 1 calc(25% - 20px); min-width: 150px; text-align: center;">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag">
-            <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
-            <line x1="7" y1="7" x2="7" y2="7"></line>
-          </svg>
-          <a class="tag" href="#{{ tag | slugify }}"><span></span>{{ tag }}</a>
+        <div class="post-tags">
+          <a class="tag" href="#{{ tag | slugify }}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag">
+              <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+              <line x1="7" y1="7" x2="7" y2="7"></line>
+            </svg>
+            {{ tag }}
+          </a>
         </div>
       {% endfor %}
     </div>
@@ -41,7 +42,13 @@
     <div class="tagged-recipes">
       {% for tag in all_tags | sort %}
         <div class="tag-group" id="{{ tag | slugify }}">
-          <h3># {{ tag }}</h3>
+          <h3>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag">
+              <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>
+              <line x1="7" y1="7" x2="7" y2="7"></line>
+            </svg>
+            {{ tag }}
+          </h3>
           <ul>
           {% for subsection in recipes.subsections %}
             {% set sub = get_section(path=subsection) %}

@@ -1097,26 +1097,115 @@ body.tag-list {
   }
 
   .title {
-    width: min-content;
-    font-size: 1.3em;
-    margin: 0 auto;
+    white-space: nowrap;
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
   }
 
   .tags {
-    margin-top: 40px;
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
-    font-size: 1.1em;
+    gap: 20px;
+    justify-content: center;
+    margin: 30px 0;
+    padding: 0 15px;
 
-    a {
-      color: var(--primary-color);
-      text-decoration: none;
-      margin: 2em;
+    .post-tags {
+      flex: 0 1 calc(25% - 20px);
+      min-width: 150px;
+      
+      a.tag {
+        display: block;
+        background: var(--bg-color);
+        padding: 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        text-align: center;
+        color: var(--text-color);
+
+        svg {
+          display: block;
+          margin: 0 auto 10px;
+          width: 24px;
+          height: 24px;
+        }
+
+        &:hover {
+          background: var(--primary-color);
+          color: var(--bg-color);
+          
+          svg {
+            color: var(--bg-color);
+          }
+        }
+      }
     }
   }
 
+  .tagged-recipes {
+    margin: 40px 15px;
+
+    .tag-group {
+      background: var(--bg-color);
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+
+      h3 {
+        margin: 0 0 20px 0;
+        padding: 0;
+        color: var(--primary-color);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+        svg {
+          width: 20px;
+          height: 20px;
+        }
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+
+        li {
+          padding: 0;
+          margin: 0;
+          flex: 0 1 auto;
+
+          a {
+            display: inline-block;
+            padding: 10px 20px;
+            background: var(--primary-pale-color);
+            border-radius: 3px;
+            text-decoration: none;
+            color: var(--text-color);
+            transition: all 0.2s ease;
+            white-space: nowrap;
+
+            &:hover {
+              background: var(--primary-color);
+              color: var(--bg-color);
+              transform: translateY(-2px);
+            }
+          }
+        }
+      }
+    }
+
+    // Remove the divider since we have cards now
+    & > div:last-child {
+      display: none;
+    }
+  }
 }
 
 /* tag single page
