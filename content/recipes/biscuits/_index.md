@@ -7,7 +7,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 comment = true
-tags = ["baking", "easy"]
+tags = ["baking"]
 +++
 
 

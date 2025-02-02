@@ -8,7 +8,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 comment = true
-tags = ["cast-iron", "comfort-food", "slow food"]
+tags = ["cast-iron"]
 +++
 
 

@@ -7,15 +7,13 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 comment = true
-tags = ["vegetarian", "easy", "meal prep"]
+tags = ["vegetarian", "meal prep"]
 +++
 
 # Chili
 
 
 > A warming chili with a stew-like consistency—perfect for meal prep or cozy winter nights. This recipe makes 6–8 servings and is highly adaptable based on what you have on hand. The leftovers will freeze and reheat perfectly!
-
-![ChiliPot](chili_pic1.jpeg)
 
 **Ingredients:**
 
@@ -47,6 +45,7 @@ tags = ["vegetarian", "easy", "meal prep"]
 7. Once the beans are soft, season with salt to taste.
 8. Stir in frozen or fresh corn. Cook until fully heated through and tender.
 
+![ChiliPot](chili_pic1.jpeg)
 
 **Ground meat topping:**
 

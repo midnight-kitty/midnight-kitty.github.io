@@ -95,7 +95,7 @@
             <line x1="7" y1="7" x2="7" y2="7"></line>
           </svg>
           {% for tag in section.extra.tags %}
-          <a href="#" class="tag">{{ tag }}</a>
+          <a class="tag" href="/tags/#{{ tag | slugify }}"><span></span>{{ tag }}</a>
           {% endfor %}
         </div>
         {% endif %}

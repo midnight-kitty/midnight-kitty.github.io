@@ -7,7 +7,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 comment = true
-tags = ["vegetarian", "easy", "winter meal"]
+tags = ["vegetarian"]
 +++
 
 # Carrot Soup  

@@ -9,8 +9,7 @@ minify_html = true
 build_search_index = false  # Keep this false, search is temporarily unsupported
 generate_feeds = true
 taxonomies = [
-    { name = "tags" },
-    { name = "categories" },
+    { name = "tags", feed = true},
 ]
 
 [markdown]  
