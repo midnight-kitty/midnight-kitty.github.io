@@ -26,7 +26,7 @@ comment = false
 
 [Cinnamon Cake](./cinnamon_cake)
 
-> **Warm, Spiced, and Fluffy** – With a tender crumb, a rich swirl of cinnamon sugar, and just the right hint of vanilla, every bite is pure comfort. The secret? A perfectly balanced batter and a little extra love (and effort) in the layering. Follow these detailed steps, and you'll have a cake that’s as stunning as it is delicious—perfect with a cup of coffee or as an afternoon treat. 🍰✨
+> **Warm, Spiced, and Fluffy** – With a tender crumb, a rich swirl of cinnamon sugar, and just the right hint of vanilla, every bite is pure comfort. It’s comforting and delicious, perfect with a cup of coffee or as a simple afternoon snack. One slice is never enough! 🍰✨
 
 ## Vegetarian
 

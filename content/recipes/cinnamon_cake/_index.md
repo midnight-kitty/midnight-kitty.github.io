@@ -29,7 +29,7 @@ Baking is all about precision—small changes in measurements or techniques can 
 
 This recipe has two main parts:
 - the [cinnamon crumb mixture](#cinnamon-crumb-mixture), and
-- the [cake](cake).
+- the [cake](#cake).
 
 For each section there is a section for Ingredients and tools, and for the preparation.
 
@@ -67,7 +67,7 @@ For each section there is a section for Ingredients and tools, and for the prepa
 - 150g granulated sugar
 - 2 large eggs **at room temperature**
 - 2 teaspoons vanilla extract
-- 120g yogurt **at room temperature**
+- 120g plain yogurt **at room temperature**
 - 30ml milk or cream
 - Stand mixer with a paddle attachment
 - Spatula
@@ -90,7 +90,7 @@ For each section there is a section for Ingredients and tools, and for the prepa
 13. Spread half of the batter into the prepared pan.
 14. Spread half of the crumb mixture on top.
 15. This step can be tricky! Spreading thick batter over a crumbly layer takes patience—just do your best, and it will come together!
-16. Top with remaining crumbs:
+16. Top with remaining crumbs.
 
 ## Bake
 
