@@ -1,6 +1,6 @@
 +++
 title = "Cinnamon cake"
-description = "The perfect cake for coffee!"
+description = "A soft cake that pairs perfectly with your morning coffee."
 template = "prose.html"
 insert_anchor_links = "none"
 
