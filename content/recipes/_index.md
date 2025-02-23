@@ -24,6 +24,10 @@ comment = false
 
 > **Fluffy and Flaky Layered Biscuits** – The best biscuits you will ever have with minimum equipment (box grater). This easy recipe yields melt-in-your-mouth biscuits with just the right amount of crisp on top. The secret? Cold butter! With a few simple steps and minimal ingredients, you'll have fresh, homemade biscuits perfect for any meal. 🧈✨
 
+[Cinnamon Cake](./cinnamon_cake)
+
+> **Warm, Spiced, and Fluffy** – With a tender crumb, a rich swirl of cinnamon sugar, and just the right hint of vanilla, every bite is pure comfort. The secret? A perfectly balanced batter and a little extra love (and effort) in the layering. Follow these detailed steps, and you'll have a cake that’s as stunning as it is delicious—perfect with a cup of coffee or as an afternoon treat. 🍰✨
+
 ## Vegetarian
 
 [Carrot Soup](./carrot_soup/)
