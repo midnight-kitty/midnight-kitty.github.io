@@ -5,7 +5,7 @@ template = 'home.html'
 lang = 'en'
 +++
 
-## Meow World! 👋🏽
+## Meow World! 🐾
 
 <div class="home-container">
 

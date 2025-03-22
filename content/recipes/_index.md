@@ -28,6 +28,10 @@ comment = false
 
 > **Warm, Spiced, and Fluffy** – With a tender crumb, a rich swirl of cinnamon sugar, and just the right hint of vanilla, every bite is pure comfort. It’s comforting and delicious, perfect with a cup of coffee or as a simple afternoon snack. One slice is never enough! 🍰✨
 
+[Dutch baby](./dutch_baby)
+
+> **Golden, Puffy, and Effortless** – This pancake is crispy on the edges, soft in the center, and requires no flipping. Just mix, pour, and bake in a cast iron pan! Whether topped with powdered sugar, fresh fruit, or a drizzle of maple syrup, it’s a stunning yet simple breakfast treat. 🥞✨
+
 ## Vegetarian
 
 [Carrot Soup](./carrot_soup/)
