@@ -30,7 +30,11 @@ comment = false
 
 [Dutch baby](./dutch_baby)
 
-> **Golden, Puffy, and Effortless** – This pancake is crispy on the edges, soft in the center, and requires no flipping. Just mix, pour, and bake in a cast iron pan! Whether topped with powdered sugar, fresh fruit, or a drizzle of maple syrup, it’s a stunning yet simple breakfast treat. 🥞✨
+> **Golden, Puffy, and Effortless** – This pancake is crispy on the edges, soft in the center, and requires no flipping. Just blend, pour, and bake in a cast iron pan! Whether topped with powdered sugar, fresh fruit, or a drizzle of maple syrup, it’s a stunning yet simple breakfast treat. 🥞✨
+
+[Banana Bread](./banana_bread)
+
+> Moist, Sweet, and Incredibly Easy – This classic banana bread is packed with rich banana flavor, and just the right amount of sweetness. Soft, tender, and perfect for breakfast or a snack—one slice is never enough! 🍌🍞✨
 
 ## Vegetarian
 
